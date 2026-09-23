@@ -14,6 +14,8 @@ WHERE  obsession = 'clean_data'
 (1 row)
 ```
 
+![Profile Views](https://komarev.com/ghpvc/?username=adityabharti83&label=QUERY%20COUNT&color=blue&style=flat-square)
+
 </div>
 
 <br>
@@ -49,6 +51,25 @@ WHERE  obsession = 'clean_data'
 │ dev_workflow          │ Git, GitHub, CI/CD, REST APIs                 │
 │ ai_assisted_analytics │ Generative AI tooling in the analysis loop    │
 └─────────────────────┴──────────────────────────────────────────────┘
+```
+
+<br>
+
+## `-- version_history.changelog`
+
+```diff
+v3.1  (current)  Shipping pipelines that go past the notebook — pushing toward
+                 GCP + Cloud Functions, not just local scripts.
+v3.0  Nov 2025   Data Engineer Apprentice @ thinkbridge — learned that the
+                 pipeline breaking at 2am matters more than the pipeline
+                 looking clever at 2pm.
+v2.0  Jan 2025   Data Analytics Intern @ Clustor Computing — first time
+                 a dashboard I built changed an actual decision, not
+                 just a grade.
+v1.0  Jul 2025   B.E. Computer Software Engineering, CGPA 8.68 — graduated
+                 realizing the hard part was never the syntax.
++ known_issue: still double-checking every JOIN before I trust the row count.
++ status: no fix planned, it's a feature.
 ```
 
 <br>
@@ -102,6 +123,30 @@ Status: complete
 ```
 
 `Repo:` github.com/adityabharti83/airbnb-market-analytics
+
+<br>
+
+## `-- SELECT * FROM github_activity;`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=adityabharti83&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=adityabharti83&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="contribution snake"/>
+
+</div>
+
+<br>
+
+## `-- known_issues.md`
+
+```md
+- [ ] Occasionally refactors a working script at 1am for "readability"
+- [ ] Cannot leave a `SELECT *` in production code, physically incapable
+- [x] Will absolutely argue that a bar chart was the wrong choice
+- [ ] Has strong opinions about tabs vs commas in CSVs (it's commas)
+```
 
 <br>
 
